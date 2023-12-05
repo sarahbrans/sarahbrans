@@ -19,4 +19,4 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/sarah
 
 📫How to Reach Me:
 
-Message me on [LinkedIn](https://www.linkedin.com/in/sarahbrans/)
+- Message me on [LinkedIn](https://www.linkedin.com/in/sarahbrans/)
