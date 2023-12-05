@@ -1,4 +1,4 @@
-# 👩Introducing Myself
+## 👩Introducing Myself
 
 Hello, I'm Sarah. Data Analyst and SQL enthusiast with expertise in data analysis and reporting, query
 optimization, database design, and data modeling.
@@ -8,16 +8,16 @@ optimization, database design, and data modeling.
  - Developing dashboards on Power BI and Tableau.
  - Data analysis and reporting using Microsoft Excel.
 
-# 📚Projects
+## 📚Projects
 
 Welcome to my portfolio, where I showcase my [projects.](https://github.com/sarahbrans?tab=repositories)
 
-# 🛠️Tools
+## 🛠️Tools
 
  - Language: SQL, Python (Programming Language)
  - Database: MySQL
  - Visualization and Analytics: Microsoft Power BI, Tableau, Microsoft Excel
 
-# 👋🏻Connect With Me
+## 👋🏻Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/sarahbrans/)
