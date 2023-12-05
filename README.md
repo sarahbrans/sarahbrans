@@ -1,7 +1,7 @@
-### 🙋‍♀️Introducing Myself
+👋Hi, I'm Sarah, an undergrad student at OCCC.
 
-Hi, I'm Sarah, an undergrad student at OCCC. I'm a Data and SQL enthusiast learning data analysis and reporting, query
-optimization, database design, and data modeling.
+💼I'm a Data and SQL enthusiast learning data analysis and reporting,
+query optimization, database design, and data modeling.
 
  - Querying data using SQL
  - Developing dashboards on Power BI and Tableau.
