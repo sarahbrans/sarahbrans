@@ -9,7 +9,7 @@ optimization, database design, and data modeling.
 
 ### 📚Projects
 
-Welcome to my portfolio, where I showcase my [projects.](https://github.com/sarahbrans?tab=repositories)
+Welcome to my portfolio, where I showcase my [projects](https://github.com/sarahbrans?tab=repositories).
 
 ### 🛠️Tools
 
