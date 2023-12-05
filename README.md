@@ -7,16 +7,16 @@ query optimization, database design, and data modeling.
  - Developing dashboards on Power BI and Tableau.
  - Data analysis and reporting using Microsoft Excel and Python.
 
-### 📚Projects
+📚Projects
 
 Welcome to my portfolio, where I showcase my [projects](https://github.com/sarahbrans?tab=repositories).
 
-### 🛠️Tools
+🛠️Tools
 
  - Language: SQL, Python (Programming Language)
  - Database: MySQL
  - Visualization and Analytics: Microsoft Power BI, Tableau, Microsoft Excel
 
-### 📫How to Reach Me
+📫How to Reach Me
 
 [My LinkedIn](https://www.linkedin.com/in/sarahbrans/)
