@@ -17,6 +17,6 @@ Welcome to my portfolio, where I showcase my [projects.](https://github.com/sara
  - Database: MySQL
  - Visualization and Analytics: Microsoft Power BI, Tableau, Microsoft Excel
 
-### 👋🏻Connect With Me
+### 📫How to Reach Me
 
-[LinkedIn](https://www.linkedin.com/in/sarahbrans/)
+[My LinkedIn](https://www.linkedin.com/in/sarahbrans/)
