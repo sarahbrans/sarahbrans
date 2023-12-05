@@ -20,4 +20,4 @@ Welcome to my portfolio, where I showcase my [projects.](https://github.com/sara
 
 # 👋🏻Connect With Me
 
-(LinkedIn)[https://www.linkedin.com/in/sarahbrans/]
+[LinkedIn](https://www.linkedin.com/in/sarahbrans/)
