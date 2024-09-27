@@ -1,4 +1,4 @@
-👋Hi, I'm Sarah, a computer science undergrad at OCCC planning to transfer to OSU.
+👋Hi, I'm Sarah, an MIS undergrad at OSU.
 
 🌱I'm a SQL and data enthusiast learning data analysis and reporting,
 query optimization, database design, and data modeling.
